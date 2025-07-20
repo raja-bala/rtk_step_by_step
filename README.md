@@ -9,4 +9,4 @@ npm install react-redux
 npm install @reduxjs/toolkit
 ```
 
-2.
+2. Configure redux store
